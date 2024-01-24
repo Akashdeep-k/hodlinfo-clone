@@ -35,7 +35,7 @@ To run this app locally, follow the steps below:
    ```
 
 
-3. Insert your postgres database connection string in `.env.example` file and rename it to `.env`
+3. Insert your postgreSQL database connection string in `.env.example` file and rename it to `.env`
 
 4. Run the app:
 
