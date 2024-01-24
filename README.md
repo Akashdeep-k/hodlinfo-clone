@@ -15,6 +15,9 @@ A simplified clone of [hodlinfo.com](https://hodlinfo.com) that fetches cryptocu
 - PostgreSQL
 - Docker
 
+## Deployment Link
+- [Hodlinfo-Clone](https://hodlinfo-clone.up.railway.app/)
+
 ## Local Setup
 
 To run this app locally, follow the steps below:
